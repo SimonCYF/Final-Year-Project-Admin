@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable-v24/background_grad.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable-v24/ic_baseline_arrow_drop_down.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable-v24/rounded_corner_red.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable/ic_baseline_assignment_turned_in_24.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable/rounded_corner.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable/rounded_corner_for_button.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/drawable/rounded_corner_grey.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_delete_candidate.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_delete_candidate_confirm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_delete_confirm_pop_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_delete_party.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_delete_senator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate_info_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate_info_party.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate_info_propaganda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_candidate_info_state.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_info_pop_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_info_pop_up_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_info_pop_up_spinner_and_text.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_party.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_party_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_edit_senator_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_mainmenu.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_register_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_register_candidate.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_register_party.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_register_senator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_swipe_verify_voter.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FinalYearProjectAdmin/app/src/main/res/layout/activity_verify_voter.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
